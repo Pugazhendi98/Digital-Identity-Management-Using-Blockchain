@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#263237</color>
+    <color name="colorPrimaryDark">#1e282d</color>
+    <color name="colorAccent">#1e282d</color>
+    <color name="textPrimary">#F5F5F5</color>
+    <color name="textPrimaryDark">#95aab4</color>
+    <color name="errorText">#F81515</color>
+    <color name="QRCodeBlackColor">#FFFFFF</color>
+    <color name="QRCodeWhiteColor">#000000</color>
+
+    <color name="black_overlay">#66000000</color>
+</resources>
